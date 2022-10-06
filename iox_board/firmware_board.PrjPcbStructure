@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=beaglebone.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=beaglebone.SchDoc|FileName=headers.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=beaglebone.SchDoc|FileName=interface.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=beaglebone.SchDoc|FileName=iox.SchDoc|SheetNumber=2
